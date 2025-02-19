@@ -1,6 +1,6 @@
 ---
-name: iOS issue
-about: Report an issue or crash for iOS
+name: Sample issue
+about: This is a sample issue
 title: ''
 labels: ''
 assignees: ''
