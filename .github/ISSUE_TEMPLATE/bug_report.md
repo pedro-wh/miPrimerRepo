@@ -1,8 +1,8 @@
 ---
 name: Sample issue
 about: This is a sample issue
-title: ''
-labels: ''
+title: '[BUG] Descripción del bug'
+labels: bug
 assignees: ''
 
 ---
