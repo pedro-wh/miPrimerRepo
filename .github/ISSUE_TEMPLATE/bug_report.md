@@ -7,5 +7,5 @@ assignees: ''
 
 ---
 
-**Describe the issue**
-Please
+**Describe el issue**
+Porfavor
